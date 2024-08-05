@@ -1,0 +1,14 @@
+manejo de comandos basicos:
+create branch
+checkout 
+pull 
+checkout 
+pull 
+fetch 
+push 
+add 
+
+steps: 
+npm init -y 
+git add . 
+git commit -m 'Commit inicial'
