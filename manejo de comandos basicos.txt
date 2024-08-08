@@ -12,3 +12,17 @@ steps:
 npm init -y 
 git add . 
 git commit -m 'Commit inicial'
+#para ejecutar en node el codigo de frutas.js, se dirije a la direccion
+cd src/ 
+node frutas.js
+#para subir a la rama:
+git push origin devlop
+git push origin devlop/JJulianSA
+
+npm list #ver todos los paquetes instalados
+#Instalamos el siguiente paquete
+npm i cowsay
+npm run <nombre del script>
+npm run dev 
+#Desinstalamos el siguiente paquete
+npm uninstall cowsay
